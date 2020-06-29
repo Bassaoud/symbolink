@@ -1,3 +1,5 @@
+Symbolink est un projet personnel qui a pour finalité de participer à ma progression personnelle. Développé sous Angular, Symbolink est destiné à évoluer au fur et à mesure. Son objectif est que chacun puisse y voir plus clair dans son inconscient afin d'enrichir sa perspective d'évolution ! 
+
 # Symbolink
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.0.1.

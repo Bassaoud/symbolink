@@ -1,0 +1,31 @@
+$primary: rgb(111, 0, 255);
+
+.container {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-top: 15px;
+    text-align: justify;
+    text-justify: inter-word;
+    margin: auto;
+   
+}
+
+.position {
+    background-color: $primary;
+    color: white;
+   text-align: center;
+}
+
+li {
+    text-decoration: none;
+    list-style-type: none;
+    border: 1px solid $primary;
+    padding: 5px;
+}
+button {
+    color: aliceblue;
+    background-color: rgb(111, 0, 255);
+    border-radius: 10px;
+    border: 0px;
+    font-family: 'Nunito', 'sans-serif';
+    
+}

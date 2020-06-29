@@ -1,0 +1,36 @@
+$primary: rgb(111, 0, 255);
+
+h1 {
+    color:rgb(111, 0, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container {
+     text-align : center;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+.liste{
+    background-color: rgb(111, 0, 255);
+    border: 1px;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    list-style-type: none;
+}
+
+li{
+    border-style: solid;
+}
+
+.valider {
+    padding: 10px 10px 10px 10px;
+    margin-top: 15px;
+}
+
+.centerimg {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

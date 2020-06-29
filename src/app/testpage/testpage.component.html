@@ -1,0 +1,17 @@
+<div class="container">
+<h1>Classez ces symboles de 1 à 5, par ordre de préférence:</h1>
+<div class="galerie">
+    <div class="symbol" *ngFor="let item of symbols" (click)="select(item)" [ngClass]="{'green': isSelected(item)}">
+        <img src="{{item.image}}"/>
+    </div>
+</div>
+
+    <label ng-model="symbolsSelected.length == 5">{{symbolsSelected.length}} / 5</label><br>
+    <button><a class="btn btn" (click)="goToResultPage($event, symbolsSelected)">VALIDER</a></button>
+
+    <p><span class="btn valider" (click)="ngOnInit()">Recommencer</span></p>
+    
+    
+   
+
+  </div>

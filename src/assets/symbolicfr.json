@@ -1,0 +1,56 @@
+{
+"square": {
+	 "name": "Carré",
+	 "symbolizes": "La stabilité, les lois, les régles, le cadre, la structure, l'organisation, la sécurité",
+	 "meaning": "Dessiner un carré reflète le processus de construction d'une fondation. Ces personnes sont prêtes à construire, à mettre en œuvre un plan et à manifester des idées. Ils ont besoin de cohérence, de responsabilité et d'achèvement.",
+	 "inrelationships": "Les personnes dans ce processus valorisent l'intégrité et l'authenticité, ainsi que la responsabilité et la reddition de comptes. Les actions sont plus éloquentes que les mots pour traiter avec les gens dans ce processus. Ils se sentent aimés et soutenus lorsque vous êtes honnête, direct, clair, responsable et fiable. Faites ce que vous dites.",
+	 "underlyingfear": "Rien ne sera accompli et leurs efforts seront une perte de temps et d'énergie.",
+	 "intheextreme": "Lorsqu'ils sont trop profondément immergés, ils peuvent devenir contrôlants, impatients et méfiants envers les autres.",
+	 "explication": "Le carré symbolise la stabilité, la solidité et la sécurité. Le fait de dessiner un carré miroite parfaitement le processus de construire des fondations. Ceux qui sont attirés par le carré sont prêts à construire, à mettre en œuvre un plan d’action et à manifester des idées. Ces personnes ont un besoin important de constance, de responsabilité, et d’accomplissement. Leur peur est que rien ne sera accompli et que leurs efforts seront une perte de temps et d’énergie. Ils veulent des résultats. Ils valorisent l’intégrité, l’authenticité, ainsi que la responsabilité et le devoir. La congruence est particulièrement importante pour eux.",
+	"image": "assets/square.jpg"
+	},
+
+"circle": {
+	"name": "Cercle",
+	 "symbolizes": "L'identité, l'individuation, l'indépendance individuelle, l'unité",
+	 "meaning": "Lorsque les gens sont engagés dans la recherche de l'intégralité, ils aspirent à l'indépendance et à l'individuation. Ce dont ils ont le plus besoin, c'est d'espace, d'espace pour se retrouver et développer leur propre identité.",
+	 "inrelationships": "Ces personnes se sentiront aimées et dignes de confiance lorsqu'elles auront beaucoup d'espace. Si l'espace dont ils ont besoin ne leur est pas offert, ils le prendront simplement. Il est sage d'attendre et de permettre à la personne qui est dans ce processus d'initier la communication et le contact.",
+	 "underlyingfear": "Piégeage, être pris dans une situation qui les restreindra ou les restreindra.",
+	 "intheextreme": "Lorsque le processus d'individuation est résisté ou ne peut pas être résolu, il peut devenir intensément auto-absorbant, voire narcissique.",
+	 "explication": "Dans toutes les cultures, le cercle représente l’intégralité et l’expérience d’unité. Lorsque les gens sont impliqués dans la recherche d’intégralité, ils aspirent à l’indépendance et l’individuation (à ne pas confondre avec individualisme! Le Petit Robert définit l’individuation par: « Ce qui différencie un individu d’un autre de la même espèce »). Les personnes qui préfèrent le cercle ont besoin d’espace, de la place dans laquelle se retrouver et développer leur identité. Ce dont ils redoutent le plus est de se retrouver enfermé, pris dans des situations qui vont les restreindre ou les limiter. Ceux qui sont en train de vivre le processus d’individuation se sentiront aimé et compris si on leur donne liberté et espace. Lorsque l’on résiste, ou n’autorise pas ce processus d’individuation d’aboutir, il peut devenir intensément prenant, voire narcissique.",
+	 "image": "assets/circle.jpg"
+	},
+
+"spiral": {
+	"name": "Spirale",
+	 "symbolizes": "La croissance, l'évolution, le développement, l'expansion",
+	 "meaning": "Il s'agit d'un processus qui revient encore et encore au même point, mais à un niveau différent, afin que tout soit vu sous un nouveau jour. Cela donne une nouvelle perspective sur les problèmes, les personnes et les lieux. Ces personnes ont un fort besoin de variété, de nouveauté et de changement. Ils redoutent la routine et sont capables de bien faire plusieurs tâches.",
+	 "inrelationships": "La flexibilité est la principale exigence pour les relations avec les personnes profondément impliquées dans ce processus. Il est important que d'autres soient ouverts à de nouvelles options non envisagées auparavant. Il est important de soutenir le changement plutôt que de l'entraver. Les gens dans ce processus se sentiront aimés et en qui ils auront confiance quand les autres partageront leur enthousiasme quant à la variété des options qu'ils envisagent.",
+	 "underlyingfear": "Suppression de la créativité, étouffement.",
+	 "intheextreme": "Cela peut conduire à l'exploration superficielle de nombreuses choses à la fois. Cela peut ressembler à la création du chaos pour vivre une excitation momentanée et pour échapper à l'ennui.",
+	 "explication": "La spirale symbolise le processus de développement et d’évolution. C’est le processus d’arriver au même point encore et encore, mais à un niveau différent de connaissance ou de conscience, de sorte que tout est vu sous une autre lumière. Le résultat est une nouvelle perspective sur les choses, les gens, les endroits. Ceux qui sont impliqués dans le processus de la spirale ont un grand besoin de variété, de nouveauté et de changement. Ils ne supportent pas la routine, et ils sont capables de très bien faire plusieurs choses en même temps. Créatifs et ingénieux, ils sont adeptes à initier et suivre des projets.",
+	 "image": "assets/spiral.jpg"
+	},
+
+"triangle": {
+	"name": "Triangle",
+	 "symbolizes": "Le but, le projet, la direction, les rêves, les visions et objectifs",
+	 "meaning": "Ce processus comprend la découverte de soi et les révélations. Les personnes dans ce processus se concentrent intensément sur l'identification et la poursuite d'un objectif. L'atteindre est extrêmement important pour eux. Ils ont un don inné de vision et ils doivent suivre leurs rêves.",
+	 "inrelationships": "Les gens dans ce processus se sentent aimés et acceptés lorsque les autres partagent et apprécient les visions qu'ils ont. Ils sont heureux lorsque vous exprimez du respect et un soutien tangible aux visions et aux objectifs qu'ils poursuivent.",
+	 "underlyingfear": "Qu'il n'y aura aucun rêve à poursuivre.",
+	 "intheextreme": "Ils deviennent tellement absorbés par leurs plans pour l'avenir qu'ils n'accomplissent rien dans le présent.",
+	 "explication": "Le triangle est associé aux pyramides, pointes de flèches et montagnes sacrées. Il porte le thème de découverte de soi et de révélation. Ce symbole représente les objectifs, les visions et les rêves. Les personnes vivant le processus triangulaire sont intensément focalisées sur l’identification et la poursuite d’un objectif ; l’atteindre est très important pour eux. Ils ont le don inné de « vision » et leur besoin fondamental est de suivre leurs rêves. Leur pire peur est qu’il n’y ait plus de rêve à suivre. Ils persévéreront, malgré des obstacles ou des délais de taille, aussi longtemps que leurs rêves auront un sens pour eux. Ils ont néanmoins besoin d’éviter de devenir trop absorbés dans leurs plans futurs au point de ne rien accomplir dans le présent. Les personnes dans ce processus se sentiront aimées et acceptées lorsque les autres partageront et valoriseront les visions qu’ils ont. Les relations bénéficieront, lorsqu’amis et famille exprimeront du respect, et du soutient tangible aux visions et objectifs que cette personne poursuit.",
+	 "image": "assets/triangle.jpg"
+	},
+
+"cross": {
+	"name": "Croix",
+	 "symbolizes": "Le lien, la communication, les relations avec soi et avec les autres, l'intégration",
+	 "meaning": "Il s'agit du processus de couplage, de synthèse, d'intégration et d'équilibrage. Ce processus entraîne la nécessité d'une connexion à un projet créatif, à un groupe, à une autre personne ou à soi-même.",
+	 "inrelationships": "Les personnes qui préfèrent la croix mettront l'accent sur la qualité et non sur la quantité de temps partagée avec les autres. L'expérience de l'équilibre sera un objectif essentiel pour eux. Ces personnes demandent souvent un rendez-vous spécifique, elles aiment le travail collaboratif et assimilent le temps de qualité passé avec des amis proches avec amour et confiance.",
+	 "underlyingfear": "Perte, abandon et isolement.",
+	 "intheextreme": "Poussée à l'extrême, l'identité personnelle peut être perdue si l'individu essaie de vivre sa vie à travers une autre personne ou un autre groupe.",
+	 "explication": "La croix symbolise, universellement, le processus de relation et d’intégration. C’est un processus connecteur, synthétiseur, intégrateur et équilibrant. Ce processus porte en lui le besoin de lien – à un projet créatif, à un groupe, une autre personne, ou à soi-même. Il est le symbole qui démontre l’intégration et la relation équilibrée. Les personnes qui préfèrent la croix, accordent de l’importance à la qualité, et non la quantité, du temps passé avec autrui. Vivre dans l’équilibre est un objectif important pour eux. Ces individus adorent le travail collaboratif, et pour eux la qualité du temps passé en compagnie de collègues et d’amis est signe d’amour et de confiance.",
+	 "image": "assets/cross.jpg"
+	}
+}

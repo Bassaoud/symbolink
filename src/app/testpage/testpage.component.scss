@@ -1,0 +1,71 @@
+$primary: rgb(111, 0, 255);
+
+h1 {
+    color:rgb(111, 0, 255);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.container {
+     text-align : center;
+     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     margin-top: 15px;
+    
+}
+
+.btn {
+    margin: 1px;
+}
+button {
+    color: aliceblue;
+    background-color: rgb(111, 0, 255);
+    border-radius: 10px;
+    border: 0px;
+    font-family: 'Nunito', 'sans-serif';
+}
+
+.valider {
+    padding: 10px 10px 10px 10px;
+    margin-top: 15px;
+}
+
+
+ul {
+    list-style-type: none;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.galerie {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 90%;
+    max-width: 1500px;
+    margin: 70px auto 0;
+    /*background: crimson;*/
+}
+
+.item {
+    text-align: center;
+    width: 200px;
+    height: 30%;
+    margin: 2px;
+    overflow: hidden;
+    flex-shrink: 0;
+    border: 1px solid $primary;
+}
+
+.item img {
+    width: 80%;
+    height: auto;
+}
+
+.black {
+background-color: green($color: #000000);
+}
+
+.green {
+    background-color: $primary;
+    }
+.symbol {
+padding: 1px;
+}
