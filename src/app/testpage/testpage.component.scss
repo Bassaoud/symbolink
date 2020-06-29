@@ -54,9 +54,9 @@ ul {
     border: 1px solid $primary;
 }
 
-.item img {
-    width: 80%;
-    height: auto;
+img {
+    width: 150px;
+	height: 150px;
 }
 
 .black {
@@ -67,5 +67,7 @@ background-color: green($color: #000000);
     background-color: $primary;
     }
 .symbol {
+display: flex;
 padding: 1px;
+
 }
