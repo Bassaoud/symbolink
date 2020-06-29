@@ -40,22 +40,26 @@ export class TestpageComponent implements OnInit {
      if(this.symbolsSelected.length >= 5 ){
       return 0;
      } 
+     /* Si "symbolsSelected" ne contient pas l'item "isSlected" retourne false 
+     * Alors on utilise la méthode push pour ajouter l'item passé en argument
+     */
      if(!this.isSelected(item)) {
       this.symbolsSelected.push(item);
      } else {
-       //renvoie un nouveau tableau qui respecte la condition de callback
-       // filter => créer tab => rajoute les item => rajoute si c vrai
+       /*renvoie un nouveau tableau qui respecte la condition de callback
+       * filter => créer tab => rajoute les item => rajoute si c vrai
+       */ 
        this.symbolsSelected = this.symbolsSelected.filter((symbol) => item != symbol);
      }
    }
 
+   /* isSelected prend en paramétee une instance de Symbol
+   * Vérifie si symbolsSelected contient l'instance passée en argument
+   */
    isSelected(symbol: Symbol): boolean {
      return  this.symbolsSelected.includes(symbol);
    }
 
-affichTab( ){
-  return this.listsymb;
-}
 
  
 goToResultPage(e,listsymb) {
