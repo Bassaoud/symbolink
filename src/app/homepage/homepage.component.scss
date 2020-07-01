@@ -19,9 +19,17 @@ h1 {
     list-style-type: none;
 }
 
-li{
-    border-style: solid;
-}
+
+    li {
+        text-decoration: none;
+        list-style-type: none;
+        border: 1px solid $primary;
+        padding: 5px;
+        border-bottom: none;
+        border-right: none;
+        border-left: none;;
+    }
+
 
 .valider {
     padding: 10px 10px 10px 10px;

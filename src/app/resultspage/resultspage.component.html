@@ -2,10 +2,11 @@
 <div class="container">
     <ul>
 <div class="positionsymbol">
-<li ><span class="position"><strong>Position 1: Là où vous pensez être</strong></span><br> Indique ce qui retient mon attention aujourd’hui, ce dans quoi j’investis mon énergie, ma motivation. Domaine sur lequel mon énergie est centrée (préoccupation du moment).</li>
+<li ><span class="position"><strong>Position 1: Là où vous pensez être</strong></span><br> Indique ce qui retient mon attention aujourd’hui, ce dans quoi j’investis mon énergie, ma motivation. Domaine sur lequel mon énergie est centrée (préoccupation du moment).
 <h3>{{list[0].name}}</h3>
 <h4>{{list[0].symbolizes}}</h4>
 <p>{{list[0].explication}}</p>
+</li>
 </div>
 <div class="positionsymbol">
 <li ><span class="position"><strong>Position 2: Une force/un talent inhérent à vous</strong></span><br> Correspond aux dons, qualités développées, ressources sur lesquelles je m’appuie. Ressource connue, acquise, naturelle.
@@ -15,31 +16,42 @@
 </li>
 </div>
 <div class="positionsymbol">
-<li ><span class="position"><strong>Position 4: Votre motivation - un évenement passé qui vous a mené à votre processus actuel</strong></span><br> Précise ce qui est acquis, qui est le fruit de beaucoup de travail, ressources acquises. Ce fut un sujet de réflexion et qui demanda du travail mais qui est complètement intégré.</li>
+<li ><span class="position"><strong>Position 4: Votre motivation - un évenement passé qui vous a mené à votre processus actuel</strong></span><br> Précise ce qui est acquis, qui est le fruit de beaucoup de travail, ressources acquises. Ce fut un sujet de réflexion et qui demanda du travail mais qui est complètement intégré.
 <h3>{{list[3].name}}</h3>
 <h4>{{list[3].symbolizes}}</h4>
 <p>{{list[3].explication}}</p>
+</li>
 </div>
 <div class="positionsymbol">
-<li ><span class="position"><strong>Position 5: Ancienne situation inachevée</strong></span><br> Spécifie ce qui est en friche, en développement. C’est une zone de difficulté en chantier pour laquelle je ne suis pas motivé mais que je n’ai pas besoin de la travailler car il se résoudra tout seul grâce au symbole en position 3 qui est le plus important.</li>
+<li ><span class="position"><strong>Position 5: Ancienne situation inachevée</strong></span><br> Spécifie ce qui est en friche, en développement. C’est une zone de difficulté en chantier pour laquelle je ne suis pas motivé mais que je n’ai pas besoin de la travailler car il se résoudra tout seul grâce au symbole en position 3 qui est le plus important.
 <h3>{{list[4].name}}</h3>
 <h4>{{list[4].symbolizes}}</h4>
 <p>{{list[4].explication}}</p>
+</li>
 </div>
 <div class="positionsymbol">
-<li ><span class="position"><strong>Position 3: Où vous êtes vraiment - la clé de votre évolution à ce moment de votre vie</strong></span><br> C'est le domaine qui est en friche, et qui est le plus important à développer, à travailler pour atteindre la position 1 et donner une réponse concrète au 5. C’est le domaine sur lequel je dois me centrer pour passer à l’étape suivante.</li>
+<li ><span class="position"><strong>Position 3: Où vous êtes vraiment - la clé de votre évolution à ce moment de votre vie</strong></span><br> C'est le domaine qui est en friche, et qui est le plus important à développer, à travailler pour atteindre la position 1 et donner une réponse concrète au 5. C’est le domaine sur lequel je dois me centrer pour passer à l’étape suivante.
 <h3>{{list[2].name}}</h3>
 <h4>{{list[2].symbolizes}}</h4>
 <p>{{list[2].explication}}</p>
+</li>
 </div>
 </ul><br>
 <div class="explication">
 <p>Les positions 2 et 4 sont les ressources, les forces laissées de côté et moins prioritaires.</p>
-<p><strong>{{list[1].symbolizes}}</strong></p>
-<p><strong>{{list[3].symbolizes}}</strong></p><br>
+<p>>><strong>{{list[1].symbolizes}}</strong></p>
+<p>>><strong>{{list[3].symbolizes}}</strong></p><br>
 
-<p>Donc le symbole qui est en <span>position 3</span> est le domaine le plus important à travailler pour le moment.</p>
-<p><strong>{{list[2].symbolizes}}</strong></p> 
+<p>Donc le symbole qui est en <span>position 3</span> est le domaine le plus important à travailler pour le moment:</p>
+<p>>><strong>{{list[2].symbolizes}}</strong></p> 
+
+<div class="adevelopper">
+<h3>Détails sur mes besoins en développement personnel du moment : </h3>
+<p><strong>Préconisation génerale:</strong> {{list[2].meaning}}</p>
+<p><strong>En relations:</strong> {{list[2].inrelationships}}</p>
+<p><strong>Peur sous-jacente à surmonter:</strong> {{list[2].underlyingfear}}</p>
+<p><strong>Extrême à éviter:</strong> {{list[2].intheextreme}}</p>
+</div>
 </div>
 <button><a href="#" routerLink="/test" class="btn">Refaire le test</a></button>
 </div>
