@@ -1,6 +1,6 @@
 Symbolink est un projet personnel qui a pour finalité de participer à ma progression personnelle. Développé sous Angular, Symbolink est destiné à évoluer au fur et à mesure. Son objectif est que chacun puisse y voir plus clair dans son inconscient afin d'enrichir sa perspective d'évolution ! 
 
-Site en production: https://goofy-goldstine-bf1a70.netlify.app/
+Site en production: https://symbolink.netlify.app/
 
 # Symbolink
 
